@@ -12,8 +12,6 @@ Open to: Werkstudent / Praktikum / part-time
 IT-Security · IT-Support · Bonn / Köln / remote
 ```
 
-I build and document security work in public — real labs, honest write-ups, and the occasional thing I break on purpose so I can learn to detect it.
-
 ## $ ls projects/
 
 | | |
