@@ -9,7 +9,8 @@ AI-assisted DevSecOps     ·  Security hardening
 
 $ cat status.txt
 Open to: Werkstudent / Praktikum / part-time
-IT-Security · IT-Support · Bonn / Köln / remote
+IT-Security · IT-Support · Software Development
+Bonn / Köln / remote
 ```
 
 ## $ ls projects/
